@@ -32,7 +32,7 @@ export default function Footer() {
           {/* social icons */}
           <SocialIcons />
         </Flex>
-        <p>&copy: 22 Huddle. all righhts reserved</p>
+        <p>&copy: 22 Huddle. all righhts </p>
       </Container>
     </StyledFooter>
   );
